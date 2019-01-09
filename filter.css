@@ -1,0 +1,13 @@
+input {
+  margin-right: 10px;
+  border: 1px solid gray;
+}
+.words_container {
+  width: 300px;
+  height: 200px;;
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 20px;
+  overflow: scroll;
+  border: 1px solid gray;
+}
